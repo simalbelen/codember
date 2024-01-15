@@ -19,5 +19,3 @@ for d in data.text:
         print("Error")
 
 print(response)
-# prints: 
-# 024899455

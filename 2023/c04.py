@@ -20,7 +20,3 @@ for d in data:
         real.append([d, name, checksum])
 
 print(real[32][2])
-
-
-
-
